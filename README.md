@@ -1,1 +1,1 @@
-# jenkins-lab
+This project is integrated with Jenkins CI.
